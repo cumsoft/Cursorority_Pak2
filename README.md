@@ -21,7 +21,7 @@
 >
 
 ### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵
-![Image text]()
+![Image text](https://github.com/cumsoft/Cursorority_Pak2/blob/96a596ce581ac07e53ab9c312dd1b8a8815d4e5d/Cumsoft_Cursorority_Pak2beta.jpg)
 
 ### Compatible With Windows Operating Systems Only!!
 
