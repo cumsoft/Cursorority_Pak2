@@ -33,11 +33,11 @@
 - Decompress/Unzip folder with your choice of software 
 - Save or remember the folder and path location
 
-Windows 10
-1. Open Settings in Windows 10 by clicking the Start menu button in the bottom left corner of your screen and clicking the gear icon. 
+Windows 11
+1. Open Settings in Windows 11 by clicking the Start menu button in the bottom left corner of your screen and clicking the gear icon. 
 2. Select “Devices,” “Mouse,” and then “Additional mouse options.” Alternatively, you can type “mouse” into the search box to find the right options.
 3. A window named “Mouse Properties” will open. To change the look of your mouse cursor, go to “Pointers,” click "Browse"
-4. Now either search "Cumsoft_Cursorority_Pak1" or navigate to the folder and path location of the Cumsoft_Cursorority_Pakv2
+4. Now either search "Cumsoft_Cursorority_Pak2" or navigate to the folder and path location of the Cumsoft_Cursorority_Pakv2
 5. Select the one you enjoy, then click "OK" to confirm. Your mouse cursor should change right away, Success!
 
 Windows 11
