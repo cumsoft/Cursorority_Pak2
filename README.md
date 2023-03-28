@@ -1,4 +1,4 @@
-##  /|\༼ ಠ益ಠ ༽/|\    <{[Thank you for your purchase]}
+##  (ᕗ ͠° ਊ ͠° )ᕗ    <{[Thank you for your purchase]}
 
 ### Cumsoft_Cursorority_Pak2 <3
 
