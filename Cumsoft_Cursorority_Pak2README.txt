@@ -1,8 +1,8 @@
-##  /|\༼ ಠ益ಠ ༽/|\    <{[Thank you for your purchase]}
+##  (ᕗ ͠° ਊ ͠° )ᕗ    <{[Thank you for your purchase]}
 
 ### Cumsoft_Cursorority_Pak2 <3
 
-![Image text]()
+![Image text](https://github.com/cumsoft/Cursorority_Pak2/blob/9e9682a47bb59c804aa7fe9b2f78e8f6a965eb9e/Cumsoft_Cursorority_Pak2READMED.png)
 
 # 𝘛𝘢𝘣𝘭𝘦 𝘰𝘧 𝘊𝘰𝘯𝘵𝘦𝘯𝘵𝘴
 1. [Software Info](#Software-Info)
@@ -21,7 +21,7 @@
 >
 
 ### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵
-![Image text]()
+![Image text](https://github.com/cumsoft/Cursorority_Pak2/blob/96a596ce581ac07e53ab9c312dd1b8a8815d4e5d/Cumsoft_Cursorority_Pak2beta.jpg)
 
 ### Compatible With Windows Operating Systems Only!!
 
@@ -33,11 +33,11 @@
 - Decompress/Unzip folder with your choice of software 
 - Save or remember the folder and path location
 
-Windows 10
-1. Open Settings in Windows 10 by clicking the Start menu button in the bottom left corner of your screen and clicking the gear icon. 
+Windows 11
+1. Open Settings in Windows 11 by clicking the Start menu button in the bottom left corner of your screen and clicking the gear icon. 
 2. Select “Devices,” “Mouse,” and then “Additional mouse options.” Alternatively, you can type “mouse” into the search box to find the right options.
 3. A window named “Mouse Properties” will open. To change the look of your mouse cursor, go to “Pointers,” click "Browse"
-4. Now either search "Cumsoft_Cursorority_Pak1" or navigate to the folder and path location of the Cumsoft_Cursorority_Pakv2
+4. Now either search "Cumsoft_Cursorority_Pak2" or navigate to the folder and path location of the Cumsoft_Cursorority_Pakv2
 5. Select the one you enjoy, then click "OK" to confirm. Your mouse cursor should change right away, Success!
 
 Windows 11
@@ -80,7 +80,7 @@ $ Save or remember the folder and path location
 
 ## 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘓𝘪𝘤𝘦𝘯𝘴𝘦
 > The MIT License (MIT)
-Copyright © 2023 <copyright holders>
+Copyright © 2022-2024 <copyright holders>
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 >
@@ -92,12 +92,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ____________________________________________________________________________________
 ### Still got questions? send us an email: [Mail](mailto:cumsoft.subscribe@gmail.com)
 
-## 𝘾𝙪𝙢𝙨𝙤𝙛𝙩 𝘾𝙤𝙥𝙮𝙧𝙞𝙜𝙝𝙩 © ２０２3
-[Github](https://github.com/cumsoft) * [Website](https://cumsoft.wixsite.com/cumsoft) * [Instagram](https://instagram.com/cumsoftcumsoft?igshid=YmMyMTA2M2Y=) * [Gumroad](https://cumsoft.gumroad.com/)
-
-### Latest Updates
-> Cumsoft is actively working on a "Cumsoft_Cursorority_Pakv3" and has plans to release another custom cursor pack mid-2024. 
->
-> If you would like to see a certian design implimented in the next release, feel free to write our devs with suggestions @ the email listed above.
->
+## 𝘾𝙪𝙢𝙨𝙤𝙛𝙩 𝘾𝙤𝙥𝙮𝙧𝙞𝙜𝙝𝙩 © 2022-２0２4
 > Coded with <3 by the Cumsoft Dev Team :)
